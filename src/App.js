@@ -1,12 +1,17 @@
 import React from 'react';
-import './styles/index.css'
+import './styles/index.css';
+import Latter from './components/Latter'
 
-function App() {
+const App = () => {
+ 
+
   return (
-    <div className="wrap" >
-      <h1>Hello React</h1>
+    <div className="wrap">
+    <h1> Love Letter Gen</h1> 
+      <Latter></Latter>
     </div>
-  );
-}
+  )
 
+}
+ 
 export default App;

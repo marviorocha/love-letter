@@ -1922,6 +1922,11 @@ ajv@^6.1.0, ajv@^6.10.0, ajv@^6.10.2, ajv@^6.12.0, ajv@^6.5.5:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
+algorithmia@^0.3.10:
+  version "0.3.10"
+  resolved "https://registry.yarnpkg.com/algorithmia/-/algorithmia-0.3.10.tgz#f71c20a9ff564660a4d1cf73947995d76de3450c"
+  integrity sha1-9xwgqf9WRmCk0c9zlHmV123jRQw=
+
 alphanum-sort@^1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/alphanum-sort/-/alphanum-sort-1.0.2.tgz#97a1119649b211ad33691d9f9f486a8ec9fbe0a3"
