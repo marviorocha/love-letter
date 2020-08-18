@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/love-letter/static/css/main.68fe44b9.chunk.css",
+    "main.js": "/love-letter/static/js/main.737d701a.chunk.js",
+    "main.js.map": "/love-letter/static/js/main.737d701a.chunk.js.map",
+    "runtime-main.js": "/love-letter/static/js/runtime-main.b971fa3c.js",
+    "runtime-main.js.map": "/love-letter/static/js/runtime-main.b971fa3c.js.map",
+    "static/js/2.3a8d4ea1.chunk.js": "/love-letter/static/js/2.3a8d4ea1.chunk.js",
+    "static/js/2.3a8d4ea1.chunk.js.map": "/love-letter/static/js/2.3a8d4ea1.chunk.js.map",
+    "index.html": "/love-letter/index.html",
+    "precache-manifest.9f6ef4f7abc4c6965d3b86b82cecca32.js": "/love-letter/precache-manifest.9f6ef4f7abc4c6965d3b86b82cecca32.js",
+    "service-worker.js": "/love-letter/service-worker.js",
+    "static/css/main.68fe44b9.chunk.css.map": "/love-letter/static/css/main.68fe44b9.chunk.css.map",
+    "static/js/2.3a8d4ea1.chunk.js.LICENSE.txt": "/love-letter/static/js/2.3a8d4ea1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b971fa3c.js",
+    "static/js/2.3a8d4ea1.chunk.js",
+    "static/css/main.68fe44b9.chunk.css",
+    "static/js/main.737d701a.chunk.js"
+  ]
+}
